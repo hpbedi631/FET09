@@ -34,3 +34,37 @@ touch [filename.ext]
 - Delete a file
 
 rm [filename.ext]
+
+===BRANCHING===
+
+ 
+
+- List all of the branches we have
+
+git branch -a
+
+ 
+
+- Create a new branch
+
+git branch [branch name]
+
+ 
+
+- Switch into a new branch
+
+git switch [branch name]
+
+=== MERGING ===
+
+ 
+
+- Merge a branch to another branch
+
+git merge [branch-name]
+
+ 
+
+- Delete a branch
+
+git branch -d [branch-name]
