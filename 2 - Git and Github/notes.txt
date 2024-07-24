@@ -1,0 +1,19 @@
+===BRANCHING===
+
+ 
+
+- List all of the branches we have
+
+git branch -a
+
+ 
+
+- Create a new branch
+
+git branch [branch name]
+
+ 
+
+- Switch into a new branch
+
+git switch [branch name]
